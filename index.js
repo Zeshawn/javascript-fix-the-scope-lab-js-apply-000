@@ -27,6 +27,10 @@ var funkyFunction = function noBo() {
 
 // We want to set theFunk equal to "FUNKY!" using our funkyFunction.
 // NOTE: you only need to modify the code below this line.
+<<<<<<< HEAD
 var theFunk = funkyFunction()()
+=======
+var theFunk = funkyFunction(noBo())
+>>>>>>> a92cbb93f060669f7b9ce836cc5b75f73096305b
 
 
